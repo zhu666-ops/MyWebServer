@@ -57,9 +57,9 @@ Linux平台下C++轻量级Web服务器
   * 默认是8
 * **threadPoolMaxNum**，线程池的线程的最大值
   * 默认是1000
-* **actorModel**，选择反应堆模型，默认Proactor
-  * n，Proactor模型
-  * y，Reactor模型
+* **actorModel**，选择反应堆模式，默认Proactor
+  * n，Proactor模式
+  * y，Reactor模式
 * **=**,表示对应字段赋值
 * **;**,表示该行配置的结束
 * **#**,表示注释的内容
